@@ -1,0 +1,29 @@
+_repo: Buda-hal-laH-n-rege_41699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arany, János
+    aliases:
+    - Arany, Janos
+    - Arany, Johann
+    birthdate: 1817
+    deathdate: 1882
+    gutenberg_agent_id: '41307'
+    url: http://www.gutenberg.org/2009/agents/41307
+description: ''
+gutenberg_issued: '2012-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41699'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian poetry'
+title: 'Buda halála: Hún rege'
+url: http://www.gutenberg.org/ebooks/41699
